@@ -1,6 +1,6 @@
 {
   "name": "@daiki48/keisan-win32-ia32-msvc",
-  "version": "0.0.0",
+  "version": "0.2.0",
   "os": [
     "win32"
   ],
