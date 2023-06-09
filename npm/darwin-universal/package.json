@@ -1,6 +1,6 @@
 {
   "name": "@daiki48/keisan-darwin-universal",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "os": [
     "darwin"
   ],
