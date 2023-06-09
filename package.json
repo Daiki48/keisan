@@ -1,7 +1,7 @@
 {
   "name": "@daiki48/keisan",
   "description": "A library that performs four arithmetic operations.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
