@@ -183,19 +183,19 @@
     "calc"
   ],
   "optionalDependencies": {
-    "@daiki48/keisan-win32-x64-msvc": "0.3.0",
-    "@daiki48/keisan-darwin-x64": "0.3.0",
-    "@daiki48/keisan-linux-x64-gnu": "0.3.0",
-    "@daiki48/keisan-darwin-arm64": "0.3.0",
-    "@daiki48/keisan-android-arm64": "0.3.0",
-    "@daiki48/keisan-linux-arm64-gnu": "0.3.0",
-    "@daiki48/keisan-linux-arm64-musl": "0.3.0",
-    "@daiki48/keisan-win32-arm64-msvc": "0.3.0",
-    "@daiki48/keisan-linux-arm-gnueabihf": "0.3.0",
-    "@daiki48/keisan-linux-x64-musl": "0.3.0",
-    "@daiki48/keisan-freebsd-x64": "0.3.0",
-    "@daiki48/keisan-win32-ia32-msvc": "0.3.0",
-    "@daiki48/keisan-android-arm-eabi": "0.3.0",
-    "@daiki48/keisan-darwin-universal": "0.3.0"
+    "@daiki48/keisan-win32-x64-msvc": "0.3.1",
+    "@daiki48/keisan-darwin-x64": "0.3.1",
+    "@daiki48/keisan-linux-x64-gnu": "0.3.1",
+    "@daiki48/keisan-darwin-arm64": "0.3.1",
+    "@daiki48/keisan-android-arm64": "0.3.1",
+    "@daiki48/keisan-linux-arm64-gnu": "0.3.1",
+    "@daiki48/keisan-linux-arm64-musl": "0.3.1",
+    "@daiki48/keisan-win32-arm64-msvc": "0.3.1",
+    "@daiki48/keisan-linux-arm-gnueabihf": "0.3.1",
+    "@daiki48/keisan-linux-x64-musl": "0.3.1",
+    "@daiki48/keisan-freebsd-x64": "0.3.1",
+    "@daiki48/keisan-win32-ia32-msvc": "0.3.1",
+    "@daiki48/keisan-android-arm-eabi": "0.3.1",
+    "@daiki48/keisan-darwin-universal": "0.3.1"
   }
 }
